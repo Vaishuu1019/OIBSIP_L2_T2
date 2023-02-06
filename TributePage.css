@@ -1,0 +1,87 @@
+
+body{ 
+    background-image: url(https://1.bp.blogspot.com/-m_ILXoLtTY0/YSU2TbMpaiI/AAAAAAAAC4g/X9LIgeCfIKID2x9uLDJdEaqICRPsPVE9ACLcBGAsYHQ/s935/Shivaji-Maharaj-Photo2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    justify-content: center;
+    background-position: center;
+    padding:2em;
+}
+
+.container{
+    
+    text-shadow: 5px 5px 10px rgb(99, 99, 99);
+    font-size:5vh;
+    background-color:rgba(225, 246, 235, 0.675);
+    margin-left:245px;
+    margin-right:245px;
+    border-radius:15px;
+    box-shadow: 10px 10px 20px black;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 5px;
+    color: rgb(176, 116, 5);
+}
+
+img{
+    display:flex;
+    margin-left:200px;
+    margin-right: 200px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    width:40%;
+    height:60%;
+    border-radius:10px;
+    box-shadow: 8px 8px 6px rgb(21, 17, 17);
+}
+
+.container img:hover{
+    cursor: pointer;
+}
+
+.name{
+    text-align: center;
+    font-size: 6vh;
+    color:white;
+    text-shadow: 5px 6px 10px black;
+    
+}
+
+.info{
+    background-color: rgb(248, 232, 201);
+    text-align:justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 2.7vh;
+    font-weight: 500;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.about{
+    background-color:rgba(168, 176, 171, 0.891);
+    color:rgb(57, 49, 36);
+    box-shadow: 10px 15px 10px #444544;
+    margin-right:50px;
+    margin-left:50px;
+}
+
+li{
+    
+    font-size: 19px;
+    font-weight: 150px;
+}
+
+p{
+    text-align: justify;
+    font-size:20px;
+    font-weight:100px;
+    margin-right:5px;
+    margin-left:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
